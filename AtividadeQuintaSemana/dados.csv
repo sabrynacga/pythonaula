@@ -1,0 +1,10 @@
+email,cpf,telefone,data
+joao.silva@email.com,123.456.789-10,(11) 98765-4321,15/08/1990
+maria_oliveira@dominio.br,987.654.321-00,(21) 91234-5678,22/11/1985
+email.invalido.com,111.222.333-44,(31) 3214-5678,01/01/2000
+carlos@teste.com,cpf-invalido-aqui,(41) 99999-9999,10/10/1995
+ana@exemplo.com,555.666.777-88,11 988887777,05/05/1992
+pedro@dominio.com,222.333.444-55,(51) 8888-8888,31/12/2023
+lucas@empresa.com,999.888.777-66,(11) 97777-6666,40/12/2020
+fernanda@site.com,444.555.666-77,(61) 96666-5555,10/10/3000
+
